@@ -1,7 +1,7 @@
 import React from "react";
 
 const newshit = () => {
-  return <div>newshit</div>;
+  return <div>he</div>;
 };
 
 export default newshit;
